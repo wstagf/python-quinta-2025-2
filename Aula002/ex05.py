@@ -26,9 +26,9 @@ ano = int(datatexto[6:10])
 
 print(datatexto.split("/"))
 
-dia = datatexto.split("/")[0]
-mes = datatexto.split("/")[1]
-ano = datatexto.split("/")[2]
+dia = int(datatexto.split("/")[0])
+mes = int(datatexto.split("/")[1])
+ano = int(datatexto.split("/")[2])
 
 
 
