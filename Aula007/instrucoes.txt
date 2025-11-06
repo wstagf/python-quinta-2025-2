@@ -1,0 +1,45 @@
+1. criar  o ambiente 
+    $ python -m venv venv
+
+
+2. ativar o ambiente
+    rodar esse codigo 
+    $ .\venv\Scripts\activate
+
+3. rodar os pip-install 
+    # manualmente, um a um
+
+    pip install math
+    pip install matplotlib
+    pip install numpy
+    pip install pandas
+    pip install seaborn
+    pip install scipy
+    pip install scikit-learn
+    pip install plotly
+    pip install jupyterlab
+
+    ou tudo de um vez 
+    $ pip install -r requirements.txt
+
+
+TODAS AS BIBLIOTECAS ESTÃO 
+REGISTRADAS NO SITE https://pypi.org/
+
+Caso de errro ao executar o script no windows, rodar esse comando no powershell como administrador
+
+  Set-ExecutionPolicy Unrestricted
+
+
+
+
+
+
+
+rodou o install 
+
+pip install numero-por-extenso
+
+
+
+

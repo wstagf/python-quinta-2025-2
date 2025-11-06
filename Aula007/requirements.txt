@@ -1,0 +1,5 @@
+# REQUIREMENTS.TXT
+# This file lists the Python packages required for the project.
+# Este arquivo lista os pacotes Python necessários para o projeto.
+
+numero-por-extenso==2.0.2
